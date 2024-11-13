@@ -2917,12 +2917,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4290a2498fc81b4894976a73ba08e84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerShoot: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
+  playerShoot: {fileID: 8300000, guid: 629e771c05e301a46b70ca4fe1814bd4, type: 3}
   asteroidExplosion: {fileID: 8300000, guid: 93bd1913954d7284488f5fc0e92b7146, type: 3}
-  playerDamage: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
-  playerExplosion: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
-  BgMusicGameplay: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
-  BgMusicTitleScreen: {fileID: 8300000, guid: b696d6a3ca2ae2a478a873988e7a15d4, type: 3}
+  playerDamage: {fileID: 8300000, guid: 640d1eac092327d449515aa5436ed773, type: 3}
+  playerExplosion: {fileID: 8300000, guid: 4f79ce7016436d14f9eea3e0541e9a53, type: 3}
+  BgMusicGameplay: {fileID: 8300000, guid: b696d6a3ca2ae2a478a873988e7a15d4, type: 3}
+  BgMusicTitleScreen: {fileID: 8300000, guid: 1e428fd48249e3c4bb75bc050ca492c3, type: 3}
 --- !u!4 &1337980917
 Transform:
   m_ObjectHideFlags: 0
